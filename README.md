@@ -23,12 +23,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![landscape](https://github.com/WalkerAlfaro/testimonials-grid-section-main/blob/main/screenshots/landscape.png)
+
+![mobile](https://github.com/WalkerAlfaro/testimonials-grid-section-main/blob/main/screenshots/mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/WalkerAlfaro/testimonials-grid-section-main)
+- [Live Site URL](https://walkeralfaro.github.io/testimonials-grid-section-main/)
 
 ## My process
 
